@@ -14,7 +14,8 @@ The Myers-Briggs Type Indicator (MBTI) is a widely-used personality assessment t
     python train.py -m model_name [-e|-s|-c]
     
 # Files
-MBTI.csv, glove.6B.50d.txt
+MBTI.csv
+glove.6B.50d.txt
 ___
 # Model Infomation
 CNN info:
