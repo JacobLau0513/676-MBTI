@@ -16,8 +16,14 @@ The Myers-Briggs Type Indicator (MBTI) is a widely-used personality assessment t
 # Files
 MBTI.csv & glove.6B.50d.txt
 ___
-# Model Infomation
-CNN info:
+# Models
+1. For CNN, we use the model from the work Convolutional Neural Networks for Sentence Classification https://arxiv.org/abs/1408.5882
+
+2. We also tried LSTM, LSTM+CNN
+
+
+# Results
+For the used CNN
 
     Accuracy(Total) on test set(20%) = 0.28
     [I] precision: 0.544, recall: 0.919, f1: 0.684
