@@ -27,7 +27,7 @@ ___
 # Results
 For the used CNN
 
-    Accuracy(Total) on test set(20%) = 0.28
+    Accuracy(Total) on test set(20%) = 0.47
     [I] precision: 0.544, recall: 0.919, f1: 0.684
     [E] precision: 0.970, recall: 0.774, f1: 0.861
     [N] precision: 0.509, recall: 0.987, f1: 0.672
