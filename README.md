@@ -14,12 +14,14 @@ The Myers-Briggs Type Indicator (MBTI) is a widely-used personality assessment t
     python train.py -m model_name [-e|-s|-c]
     
 # Files
-MBTI.csv & glove.6B.50d.txt
+MBTI.csv 
+
+glove.6B.50d.txt
 ___
 # Models
 1. For CNN, we use the model from the work Convolutional Neural Networks for Sentence Classification https://arxiv.org/abs/1408.5882
 
-2. We also tried LSTM, LSTM+CNN
+2. We also tried LSTM, LSTM+CNN. All models are included in the scripts.
 
 
 # Results
